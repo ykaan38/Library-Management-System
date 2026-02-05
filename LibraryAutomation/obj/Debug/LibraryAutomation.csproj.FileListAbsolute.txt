@@ -1,0 +1,15 @@
+C:\Users\Yiğit Kaan\source\repos\Backend\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe.config
+C:\Users\Yiğit Kaan\source\repos\Backend\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe
+C:\Users\Yiğit Kaan\source\repos\Backend\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.pdb
+C:\Users\Yiğit Kaan\source\repos\Backend\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.AssemblyReference.cache
+C:\Users\Yiğit Kaan\source\repos\Backend\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.LoginForm.resources
+C:\Users\Yiğit Kaan\source\repos\Backend\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Properties.Resources.resources
+C:\Users\Yiğit Kaan\source\repos\Backend\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.GenerateResource.cache
+C:\Users\Yiğit Kaan\source\repos\Backend\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Kaan\source\repos\Backend\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.exe
+C:\Users\Yiğit Kaan\source\repos\Backend\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.pdb
+C:\Users\Yiğit Kaan\source\repos\Backend\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.MainForm.resources
+C:\Users\Yiğit Kaan\source\repos\Backend\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.BooksForm.resources
+C:\Users\Yiğit Kaan\source\repos\Backend\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.MembersForm.resources
+C:\Users\Yiğit Kaan\source\repos\Backend\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.LoanForm.resources
+C:\Users\Yiğit Kaan\source\repos\Backend\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.exe.config
